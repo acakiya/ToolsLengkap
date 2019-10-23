@@ -10,7 +10,7 @@ toilet -f slant --gay "LiteSpam"
 sleep 1
 echo "\033[33;1m Macam-macam tool untuk spam"
 sleep 1
-echo "\033[36;1m★""\033[34;1mIndonesia Security Lite""\033[36;1m★"
+echo "\033[36;1m★""\033[34;1mAcak iya Security Lite""\033[36;1m★"
 sleep 1
 echo "\033[32;1m Spam Yang Tersedia :"
 echo "\033[35;1m1.""\033[36;1mBukalapak"
@@ -32,7 +32,7 @@ toilet -f slant "Bukalapak"
 echo "\033[31;1mJenis Spam:""\033[37;1mChat WhatsApp"
 echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mSGB-Team"
+echo "\033[31;1mAuthor:""\033[37;1mAcak"
 sleep 5
 clear
 cd $HOME/LITESPAM/Tul/
@@ -48,7 +48,7 @@ toilet "T-Sel"
 echo "\033[31;1mJenis Spam:""\033[37;1mSMS"
 echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mDanz"
+echo "\033[31;1mAuthor:""\033[37;1mAcak"
 sleep 5
 clear
 cd $HOME/LITESPAM/Tul/
@@ -63,7 +63,7 @@ figlet "Grab"
 echo "\033[31;1mJenis Spam:""\033[37;1mTelepon"
 echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mRaja Adtiya Candra"
+echo "\033[31;1mAuthor:""\033[37;1mAcak Iya Tamvan"
 sleep 5
 clear
 cd $HOME/LITESPAM/Tul/
@@ -78,7 +78,7 @@ toilet -f mono9 -F gay "Toked"
 echo "\033[31;1mJenis Spam:""\033[37;1mTelepon"
 echo "\033[31;1mBatas:""\033[37;1m1 Kali"
 echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mSGB-Team"
+echo "\033[31;1mAuthor:""\033[37;1mAcak"
 sleep 5
 clear
 cd $HOME/LITESPAM/Tul/
@@ -92,7 +92,7 @@ toilet -f slant -F gay "CodaShop"
 echo "\033[31;1mJenis Spam:""\033[37;1mSMS"
 echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mBullyHat"
+echo "\033[31;1mAuthor:""\033[37;1mAcak Iya"
 echo
 echo
 echo "\033[33;1mCOPY LISENSI INI:" "\033[36;1mJDJ5JDEwJC9YMWRvNC5jcmNOSUw2dGdUaUt2d08ucWEvWURWSFNCTXI3U21wdkdsR1FMcVBSTW1oNUZH"
@@ -112,7 +112,7 @@ toilet -f standard -F gay "Surveyon "
 echo "\033[31;1mJenis Spam:""\033[37;1mEmail"
 echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mphp"
-echo "\033[31;1mAuthor:""\033[37;1mChandra Aditya"
+echo "\033[31;1mAuthor:""\033[37;1mAcak Tamvan"
 sleep 5
 cd $HOME/LITESPAM/Tul/
 php 6.php
@@ -126,7 +126,7 @@ toilet -f slant --gay "SMSID"
 echo "\033[31;1mJenis Spam:""\033[37;1mSMS"
 echo "\033[31;1mBatas:""\033[37;1m5"
 echo "\033[31;1mPemograman:""\033[37;1mBerjalan Langsung Pada DalvikVM"
-echo "\033[31;1mAuthor:""\033[37;1mAmsitlab"
+echo "\033[31;1mAuthor:""\033[37;1mAcak Iya"
 echo
 echo
 echo "\033[33;1mInformasi Lebih Lanjut Kunjungi:""\033[36;1mhttps://amsitlab.github.io/smsid-java/"
@@ -139,7 +139,7 @@ if
 then
 clear
 toilet -f slant --gay "LiteSpam"
-echo "\033[34;1mContact:""\033[37;1m https://fb.me/IrsyadMaulana81"
+echo "\033[34;1mContact:""\033[37;1m https://fb.me/Acak Iya"
 
 
 sleep 1
@@ -151,15 +151,15 @@ echo "\033[32;1mVersi: v3"
 sleep 1
 echo "\033[36;1mTeam: Indonesia Security Lite"
 sleep 1
-echo "\033[31;1mSubscribe YouTube""\033[37;1m HeXeRz"
+echo "\033[31;1mSubscribe YouTube""\033[37;1m Acak Iya"
 echo "\033[35;1m Spesial Thanks To: "
 echo "\033[36;1m"
-echo "Danz"
-echo "Mr.Rm"
+echo "Acak"
+echo "Mr.Acak Iya"
 echo "SBGTeam"
 echo "amsitlab"
 echo "Bully Hat"
-echo "ChandraAditya"
+echo "Acak Tamvan"
 echo "Secoly Indonesia"
 echo "BlackHole Security"
 echo "Association Indonesian Right Wings"
