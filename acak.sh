@@ -8,7 +8,7 @@ pu='\033[37;1m' #purple
 ku='\033[33;1m' #kuning
 echo
 echo
-python2 meizu.py
+python2 acak.py
 echo
 clear
 echo
@@ -93,11 +93,11 @@ sleep 1
 clear
 echo
 echo $pur"==================="$cy" ============================="
-echo $i"Ôûê"$pu"  AUTHOR    :  RAHMAD  "$i"                  Ôûê"
+echo $i"Ôûê"$pu"  AUTHOR    :  Acak Iya  "$i"                  Ôûê"
 echo $i"Ôûê"$pu"  WhatsApp  :  0888099xxxxx"$i"              Ôûê"
-echo $i"Ôûê"$pu"  GMAIL     :  kucingkaget22@gmail.com"$i"   Ôûê"
-echo $i"Ôûê"$pu"  YOUTUBE   :  YouTube RMD"$i"               Ôûê"
-echo $i"Ôûê"$pu"  INSTAGRAM :  @19_mamadee"$i"               Ôûê"
+echo $i"Ôûê"$pu"  GMAIL     :  acakbukan@gmail.com"$i"   Ôûê"
+echo $i"Ôûê"$pu"  YOUTUBE   :  Acak Iya"$i"               Ôûê"
+echo $i"Ôûê"$pu"  INSTAGRAM :  @acak01"$i"               Ôûê"
 echo $pur"==================="$cy" ============================="
 echo
 echo $cy"MeNu BRUTEPORCE NeWS:"
@@ -228,7 +228,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/rahmadxyz/sub-bot.git
+git clone https://github.com/acakiya/sub-bot.git
 cd sub-bot
 php sub-bot.php
 fi
@@ -265,12 +265,12 @@ echo $i"Silahkan di pakai semoga bermanfaat Buat anda"
 sleep 2
 echo $pur"Bila Ada Kesalahan Anda Bisa Nanya Melalui Via"
 sleep 2
-echo $ku"Facebook :"$i" Rahmad Ramadhani"
-echo $ku"YouTube  :"$i" YouTube RMD"
+echo $ku"Facebook :"$i" Acak Iya"
+echo $ku"YouTube  :"$i" Acak Iya"
 echo $ku"WhatsApp :"$i" 0887882xxxx"
 sleep 2
 echo $pur"Terima kasih Yang Sudah Support dengan Tools ini"
 sleep 2
-echo $pur"SUBSCRIBE MY CHANNEL { YOUTUBE RMD }"
+echo $pur"SUBSCRIBE MY CHANNEL { ACAK IYA }"
 exit
 fi
